@@ -6,4 +6,8 @@
     <bean id = "printer" class="HelloWorld.MessagePrinter">
         <property name="MS" ref="service"></property>
     </bean>
+
+    <bean id = "hellobean" class="HelloShiyanlou.Helloworld">
+        <property name="name" value="shiyanlou"></property>
+    </bean>
 </beans>

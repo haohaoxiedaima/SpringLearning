@@ -1,2 +1,12 @@
+HelloShiyanlou\Helloworld.class
 HelloWorld\MessagePrinter.class
+Collections\Person.class
+SpringIOC\Customer.class
+Collections\Customer.class
+loosely_coupled\CsvOutputGenerator.class
+SpringIOC\FilenameGenerator.class
 HelloWorld\MessageService.class
+loosely_coupled\JsonOutputGenerator.class
+SpringIOC\Person.class
+loosely_coupled\IOutputGenerator.class
+loosely_coupled\OutputHelper.class
